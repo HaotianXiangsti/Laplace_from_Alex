@@ -8,8 +8,8 @@
 </div>
 
 
-It is the one I forked from https://github.com/aleximmer/Laplace.
-I kept this version only because I want to have a modified lib when use pip.
+**It is the one I forked from https://github.com/aleximmer/Laplace.
+I kept this version only because I want to have a modified lib when use pip.**
 
 The laplace package facilitates the application of Laplace approximations for entire neural networks, subnetworks of neural networks, or just their last layer.
 The package enables posterior approximations, marginal-likelihood estimation, and various posterior predictive computations.
